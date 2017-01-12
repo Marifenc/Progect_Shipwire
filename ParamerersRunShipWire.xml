@@ -1,0 +1,7 @@
+<suite name="TestShW">
+	<test name="ShipWire">
+		<classes>
+			<class name="com.shipwire.TestNGshipWire"></class>
+		</classes>
+	</test>
+</suite>
