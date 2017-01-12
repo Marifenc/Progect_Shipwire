@@ -22,9 +22,9 @@ Additional test approach and utilities which could be added:
 
 ***********************************************************************
 
-Bug report
+#Bug report
 
-ACTION PERFORMED
+ACTION PERFORMED.
 Tests steps:
 1. Go to the Shipwire and log in using  the following credentials : username: shiptest@mailinator.com / password: test1234.
 2. Click on the “Support” link
